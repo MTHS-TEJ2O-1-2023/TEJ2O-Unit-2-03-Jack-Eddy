@@ -8,4 +8,12 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('40 + 2 =' + (40 + 2).toString())
+basic.showString('A rectangle has dimensions 5 cm & 3 cm')
+
+basic.showString('Perimeter would be :' + (5 * 2 + 3 * 2).toString())
+
+basic.showString('cm')
+
+basic.showString('Area would be :' + (5 * 3).toString())
+
+basic.showString('cm')
